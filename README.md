@@ -1,4 +1,4 @@
-# Bank Churners
+# Bank Churners Classification
 
 The primary purpose of the analysis is to utilise a machine learning classification model that can predict whether or not a customer of a bank is likely to churn. 
 
